@@ -31,7 +31,7 @@
   <a href="https://github.com/Harish5nu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:imharry46@outlook.com" target="_blank">
+  <a href="mailto:saudharish770@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
