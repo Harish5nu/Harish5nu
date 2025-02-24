@@ -32,7 +32,9 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 
 **Additional Skills:**  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tux_ubuntu.svg" width="60" alt="Linux" />
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burp_Suite_logo.svg/1024px-Burp_Suite_logo.svg.png" width="60" alt="Burp Suite" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Owasp_logo.svg" width="60" alt="OWASP" />
 </p>
