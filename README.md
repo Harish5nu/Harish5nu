@@ -41,9 +41,6 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 <a href="https://owasp.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Owasp_Atlanta_logo_2013-07-18_00-34.png" alt="OWASP" width="40" height="40"/>
 </a>
-
-
-
 </p>
 
 - 🐧 **Linux** (Basic knowledge)  
