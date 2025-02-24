@@ -55,7 +55,7 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 
 ### **🏆 TryHackMe Stats**
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Harish5nu.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Harish5nu.png" alt="Your Image Badge" />
 </p>
 
 ---
