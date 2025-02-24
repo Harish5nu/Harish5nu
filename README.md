@@ -71,7 +71,7 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
   </a>
 
   <a href="mailto:saudharish770@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" height="60" alt="Gmail"/>
   </a>
 </p>
 
