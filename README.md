@@ -70,11 +70,11 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 ### **📞 Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/harish5nu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="60" height="60" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:saudharish770@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" width="60" height="60" alt="Gmail"/>
   </a>
 </p>
 
