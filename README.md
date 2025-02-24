@@ -31,7 +31,7 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 - 💾 **C / C++**  
 
 **Additional Skills:**  
-<p align="center">
+<p 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
