@@ -18,17 +18,17 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 ### **⚡ Technical Skills**
 
 **Main Focus:**  
-- **Python** 🐍  
-- **Cybersecurity** 🔐  
+- 🐍 **Python**  
+- 🔐 **Cybersecurity**  
 
 **Proficient In:**  
-- **Network Security**  
-- **Penetration Testing**  
-- **Digital Forensics**  
+- 🛡️ **Network Security**  
+- 🎯 **Penetration Testing**  
+- 🕵️ **Digital Forensics**  
 
 **Foundational Knowledge:**  
-- **Java** ☕  
-- **C / C++**  
+- ☕ **Java**  
+- 💾 **C / C++**  
 
 **Additional Skills:**  
 <p align="center">
@@ -37,9 +37,16 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Owasp_logo.svg" width="60" alt="OWASP" />
 </p>
 
-- **Linux** 🐧 (Basic knowledge)  
-- **Burp Suite** 🕵️‍♂️ (Basic usage)  
-- **OWASP Top 10** 📜 (Understanding key vulnerabilities)
+- 🐧 **Linux** (Basic knowledge)  
+- 🕵️‍♂️ **Burp Suite** (Basic usage)  
+- 📜 **OWASP Top 10** (Understanding key vulnerabilities)
+
+---
+
+### **🏆 TryHackMe Stats**
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Harish5nu.png" alt="TryHackMe Badge" />
+</p>
 
 ---
 
@@ -54,15 +61,17 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 ### **📞 Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/harish5nu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2023.png" width="60" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Harish5nu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/GitHub_Logo_2021.png" width="60" height="60" alt="GitHub"/>
   </a>
   <a href="mailto:saudharish770@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gmail_Icon.png" width="60" height="60" alt="Gmail"/>
   </a>
 </p>
+
+
 
 ---
 
