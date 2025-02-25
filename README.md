@@ -71,14 +71,14 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 ### **📞 Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/harish5nu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:saudharish770@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail"/>
   </a>
 <a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank">
-   <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg width="60" height="60" alt="Gmail"/>
+   <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg width="50" height="50" alt="Gmail"/>
    </a>
 </p>
 
