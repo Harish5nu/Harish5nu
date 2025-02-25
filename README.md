@@ -1,6 +1,6 @@
 <!-- Animated Hacking Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+  <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAC/ninjala-jane.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Harish Saud</h1>
