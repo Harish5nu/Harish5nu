@@ -70,18 +70,18 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 
 ### **📞 Connect with Me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/harish5nu/" target="_blank">
+  <a href="https://www.linkedin.com/in/harish5nu/" target="_blank" style="margin-right: 25px; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:saudharish770@gmail.com" target="_blank">
+  <a href="mailto:saudharish770@gmail.com" target="_blank" style="margin-right: 25px; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail"/>
   </a>
-<a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank">
-   <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/Font_Awesome_5_brands_Twitter_square.svg width="50" height="50" alt="Gmail"/>
-   </a>
-</p>
 
+  <a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank" style="display: inline-block;">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" width="50" height="50" alt="Twitter"/>
+  </a>
+</p>
 
 
 ---
