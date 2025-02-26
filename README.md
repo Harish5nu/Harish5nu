@@ -49,7 +49,7 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 </a>
 </p>
 
-- 🐧 **Linux** (Basic knowledge)  
+- 🐧 **Linux** 
 - 🕵️‍♂️ **Burp Suite** (Basic usage)  
 - 📜 **OWASP Top 10** (Understanding key vulnerabilities)
 
