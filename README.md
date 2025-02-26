@@ -44,7 +44,9 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="Nmap" width="60" height="40"/>
 </a>
-
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Nmap" width="60" height="40"/>
+</a>
 </p>
 
 - 🐧 **Linux** (Basic knowledge)  
