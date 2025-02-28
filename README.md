@@ -50,6 +50,9 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 <a href="https://www.kali.org/tools/eyewitness/" target="_blank" rel="noreferrer">
   <img src="https://www.kali.org/tools/eyewitness/images/eyewitness-logo.svg" alt="Nmap" width="60" height="40"/>
 </a>
+<a href="https://www.kali.org/tools/ffuf/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="Nmap" width="60" height="40"/>
+</a>
 </p>
 
 - 🐧 **Linux** 
