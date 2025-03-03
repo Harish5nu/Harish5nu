@@ -61,13 +61,6 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
 
 ---
 
-### **🏆 TryHackMe Stats**
-<p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Harish5nu.png" alt="Your Image Badge" />
-</p>
-
----
-
 ### **📈 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harish5nu&show_icons=true&count_private=true&hide=prs&hide_border=true&title_color=00BFFF&icon_color=FFD700&text_color=FFFFFF&bg_color=282A36" width="48%" />
