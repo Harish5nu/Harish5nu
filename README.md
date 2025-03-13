@@ -9,7 +9,7 @@
 ---
 
 ### **🔐 About Me**
-Welcome to my GitHub profile! I'm **Harish Saud**, a **Cybersecurity Enthusiast** and **Python Developer** with a strong focus on network security, penetration testing, and digital forensics. Currently, I am in my **3rd Year (5th Semester)** of **Bachelor's in Engineering**.
+Welcome to my GitHub profile! I'm **Harish Saud**, a **Cybersecurity Enthusiast** and **Python Developer** with a strong focus on network security, penetration testing, and digital forensics. Currently, I am in my **3rd Year (5th Semester)** of **Bachelor's in Computer Engineering**.
 
 I'm passionate about **ethical hacking**, **automating cybersecurity tasks using Python**, and engaging in **Capture The Flag (CTF)** challenges and **TryHackMe** labs to sharpen my practical skills. 
 
