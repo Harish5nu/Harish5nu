@@ -79,7 +79,7 @@ I'm passionate about **ethical hacking**, **automating cybersecurity tasks using
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Logo" width="50" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Logo" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" alt="Enum4linux" width="40" height="40"/>
