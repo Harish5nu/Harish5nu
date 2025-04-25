@@ -4,14 +4,14 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Harish Saud</h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Expert | Python Developer | Ethical Hacker</h3>
+<h3 align="center">Aspiring Security Researcher | Penetration Tester | Bug Hunter | Python Developer | Ethical Hacker</h3>
 
 ---
 
-### **🔐 About Me**
-Welcome to my GitHub profile! I'm **Harish Saud**, a **Cybersecurity Enthusiast** and **Python Developer** with a strong focus on network security, penetration testing, and digital forensics. Currently, I am in my **3rd Year (5th Semester)** of **Bachelor's in Computer Engineering**.
+### 🔐 ***About Me***
+Hi, I'm Harish Saud, an aspiring Security Researcher and Penetration Tester with a strong foundation in network security, ethical hacking, and digital forensics. Currently pursuing a Bachelor's in Computer Engineering.
 
-I'm passionate about **ethical hacking**, **automating cybersecurity tasks using Python**, and engaging in **Capture The Flag (CTF)** challenges and **TryHackMe** labs to sharpen my practical skills. 
+I focus on automating cybersecurity tasks with Python and continuously sharpen my skills through CTF challenges and TryHackMe labs. Passionate about penetration testing, bug hunting, and exploring new ways to improve security in the digital world.
 
 ---
 
