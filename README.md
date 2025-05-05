@@ -93,11 +93,12 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
 ---
 
 ### **📈 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish5nu&show_icons=true&count_private=true&hide=prs&hide_border=true&title_color=00BFFF&icon_color=FFD700&text_color=FFFFFF&bg_color=282A36" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish5nu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</p>
-
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish5nu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish5nu&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=282A36" /></td>
+  </tr>
+</table>
 ---
 
 ### **📞 Connect with Me**
