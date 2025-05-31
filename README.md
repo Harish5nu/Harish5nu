@@ -84,6 +84,9 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" alt="Enum4linux" width="40" height="40"/>
   </a>
+ <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="Shodan Logo" width="60" height="40"/>
+</a>
 </p>
 
 - 🐧 **Linux** 
