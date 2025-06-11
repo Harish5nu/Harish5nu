@@ -63,7 +63,7 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   </a>
 
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Owasp_Atlanta_logo_2013-07-18_00-34.png" alt="OWASP" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" alt="OWASP" width="40" height="40"/>
   </a>
 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
