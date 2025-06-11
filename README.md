@@ -30,8 +30,8 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
 
 
 **Foundational Knowledge:**  
-<p 
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+<p>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
          alt="C Programming Language Logo" width="40" height="40"/>
   </a>
@@ -50,7 +50,7 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
          alt="HTML Logo" width="40" height="40"/>
   </a>
-  </p>
+</p>
 
 **Additional Skills:**  
 <p>
@@ -59,7 +59,7 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   </a>
 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="40" height="40"/>
   </a>
 
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
@@ -79,15 +79,29 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Logo" width="40" height="40"/>
+    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark Logo" width="40" height="40"/>
   </a>
+
   <a href="https://www.kali.org/tools/enum4linux/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" alt="Enum4linux" width="40" height="40"/>
   </a>
- <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="Shodan Logo" width="60" height="40"/>
+
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_Shodan.svg" alt="Shodan Logo" width="60" height="40"/>
+  </a>
+
+  <a href="https://www.kali.org/tools/hping3/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/hping3/images/hping3-logo.svg" alt="Hping3 Logo" width="60" height="40"/>
+  </a>
+
+  <a href="https://www.kali.org/tools/maltego/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego Logo" width="60" height="40"/>
+  </a>
+  <a href="https://www.kali.org/tools/metasploit-framework/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit Logo" width="60" height="40"/>
 </a>
 </p>
+
 
 - 🐧 **Linux** 
 - 🕵️‍♂️ **Burp Suite** (Basic usage)  
@@ -108,17 +122,12 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
 ### **📞 Connect with Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harish5nu/" target="_blank" style="margin-right: 25px; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="50" height="50" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/harish5nu/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="50" height="50" alt="LinkedIn"/> 
+</a> 
+  <a href="mailto:saudharish770@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 25px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail"/> 
   </a>
-
-  <a href="mailto:saudharish770@gmail.com" target="_blank" style="margin-right: 25px; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail"/>
-  </a>
-
-  <a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank" style="display: inline-block;">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" width="50" height="50" alt="Twitter"/>
-  </a>
+  <a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" width="50" height="50" alt="Twitter"/> 
+  </a> 
 </p>
 
 
