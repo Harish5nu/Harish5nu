@@ -100,6 +100,15 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   <a href="https://www.kali.org/tools/metasploit-framework/" target="_blank" rel="noreferrer">
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit Logo" width="60" height="40"/>
 </a>
+<a href="https://www.kali.org/tools/nbtscan/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/nbtscan/images/nbtscan-logo.svg" alt="nbtscan Logo" width="60" height="40"/>
+</a>
+<a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" alt="Amass Logo" width="60" height="40"/>
+</a>
+<a href="https://www.kali.org/tools/theharvester/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" alt="TheHarvester Logo" width="60" height="40"/>
+</a>
 </p>
 
 
