@@ -67,7 +67,7 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
   </a>
 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="Nmap Tools for Port Scanning" width="60" height="40"/>
+    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap Tools for Port Scanning" width="60" height="40"/>
   </a>
 
   <a href="https://www.kali.org/tools/eyewitness/" target="_blank" rel="noreferrer">
