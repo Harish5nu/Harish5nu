@@ -112,6 +112,9 @@ I focus on automating cybersecurity tasks with Python and continuously sharpen m
 <a href="https://www.kali.org/tools/hashcat/" target="_blank" rel="noreferrer">
   <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat Logo" width="60" height="40"/>
 </a>
+<a href="https://www.kali.org/tools/john/" target="_blank" rel="noreferrer">
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="Hashcat Logo" width="60" height="40"/>
+</a>
 </p>
 
 
