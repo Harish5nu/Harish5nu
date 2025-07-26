@@ -8,10 +8,17 @@
 
 ---
 
-### 🔐 ***About Me***
-Hi, I'm Harish Saud, an aspiring Security Researcher and Penetration Tester with a strong foundation in network security, ethical hacking, and digital forensics. Currently pursuing a Bachelor's in Computer Engineering.
+### 🔐 **About Me**
 
-I focus on automating cybersecurity tasks with Python and continuously sharpen my skills through CTF challenges and TryHackMe labs. Passionate about penetration testing, bug hunting, and exploring new ways to improve security in the digital world.
+- 🎓 **Pursuing Bachelor's in Computer Engineering** at Cosmos College, Nepal  
+- 🛡️ Aspiring **Security Researcher** and **Penetration Tester**  
+- 🔐 Strong foundation in **Network Security**, **Ethical Hacking**, and **Digital Forensics**  
+- 🐍 Skilled in **automating cybersecurity tasks using Python**  
+- 🚩 Active in **CTF challenges** and hands-on practice labs  
+- 🌍 Ranked in the **Top 9% globally on TryHackMe**  
+- 🐞 Passionate about **Penetration Testing**, **Bug Bounty Hunting**, and improving **digital security**  
+- 📚 Always exploring new tools, techniques, and real-world attack vectors
+
 
 ---
 
