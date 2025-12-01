@@ -15,7 +15,7 @@
 - 🔐 Strong foundation in **Network Security**, **Ethical Hacking**, and **Digital Forensics**  
 - 🐍 Skilled in **automating cybersecurity tasks using Python**  
 - 🚩 Active in **CTF challenges** and hands-on practice labs  
-- 🌍 Ranked in the **Top 4% globally on TryHackMe**  
+- 🌍 Ranked in the **Top 3% globally on TryHackMe**  
 - 🐞 Passionate about **Penetration Testing**, **Bug Bounty Hunting**, and improving **digital security**  
 - 📚 Always exploring new tools, techniques, and real-world attack vectors
 
