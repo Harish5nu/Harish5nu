@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Harish Saud</h1>
-<h3 align="center">Aspiring Security Researcher | Penetration Tester | Bug Hunter | Python Developer | Ethical Hacker</h3>
+<h3 align="center">Aspiring Security Researcher | Penetration Tester | Bug Hunter</h3>
 
 ---
 
@@ -133,18 +133,16 @@
 
 
 - 🐧 **Linux** 
-- 🕵️‍♂️ **Burp Suite** (Basic usage)  
+- 🕵️‍♂️ **Burp Suite** (Hands-on web testing)
 - 📜 **OWASP Top 10** (Understanding key vulnerabilities)
 
 ---
 
 ### **📈 GitHub Stats**
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish5nu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish5nu&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=282A36" /></td>
-  </tr>
-</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harish5nu&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Harish5nu&theme=radical&hide_border=true" />
 
 ---
 
