@@ -138,25 +138,12 @@
 
 ---
 
-### **📈 GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harish5nu&show_icons=true&theme=radical&hide_border=true" />
+### 📞 Connect with Me
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harish5nu&theme=radical&hide_border=true" />
-
----
-
-### **📞 Connect with Me**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harish5nu/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="50" height="50" alt="LinkedIn"/> 
-</a> 
-  <a href="mailto:saudharish770@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 25px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Gmail"/> 
-  </a>
-  <a href="https://x.com/HarishS36?t=bO7bt1WGmt86tA8Q2koCyw&s=09" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" width="50" height="50" alt="Twitter"/> 
-  </a> 
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harish5nu/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:saudharish770@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/HarishS36)
 
 ---
 
