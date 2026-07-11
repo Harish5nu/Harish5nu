@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Harish Saud</h1>
-<h3 align="center">Aspiring Security Researcher | Penetration Tester | Bug Hunter</h3>
+<h3 align="center">Security Researcher | Penetration Tester | Bug Hunter</h3>
 
 ---
 
