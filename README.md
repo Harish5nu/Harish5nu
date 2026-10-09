@@ -38,6 +38,11 @@
 
 **Foundational Knowledge:**  
 <p>
+    <a href="https://curl.se" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg" 
+         alt="cURL Command/tool Logo" width="40" height="40"/>
+  </a>
+
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
          alt="C Programming Language Logo" width="40" height="40"/>
