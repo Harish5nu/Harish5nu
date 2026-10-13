@@ -94,6 +94,10 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
     <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="45" height="45" />
   </a>
   
+  <a href="https://www.kali.org/tools/libimage-exiftool-perl/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/images/kali-tools-icon-missing.svg" alt="exiftool" width="45" height="45" />
+  </a>
+
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45" />
   </a>
