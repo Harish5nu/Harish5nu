@@ -86,6 +86,16 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
 
 ### Additional Technologies
 <p align="left">
+      <a href="https://www.kali.org/tools/fierce/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" alt="fierce" width="45" height="45" />
+  </a>
+    <a href="https://www.kali.org/tools/dnsenum/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/dnsenum/images/dnsenum-logo.svg" alt="dnsenum" width="45" height="45" />
+  </a>
+    <a href="https://www.kali.org/tools/dnsrecon/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/dnsrecon/images/dnsrecon-logo.svg" alt="dnsrecon" width="45" height="45" />
+  </a>
+
   <a href="https://curl.se/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg" alt="cURL" width="45" height="45" />
   </a>
