@@ -86,12 +86,15 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
 
 ### Additional Technologies
 <p align="left">
+  <a href="https://www.kali.org/tools/xsstrike/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/xsstrike/images/xsstrike-logo.svg" alt="xsstrike" width="45" height="45" />
+  </a>
   <a href="https://www.kali.org/tools/nikto/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="nikto" width="45" height="45" />
   </a>
   
   <a href="https://www.kali.org/tools/wafw00f/" target="_blank" rel="noreferrer">
-    <img src="https://www.kali.org/tools/wafw00f/images/wafw00f-logo.svg" alt="fierce" width="45" height="45" />
+    <img src="https://www.kali.org/tools/wafw00f/images/wafw00f-logo.svg" alt="wafw00f" width="45" height="45" />
   </a>
   
   <a href="https://www.kali.org/tools/amass/" target="_blank" rel="noreferrer">
