@@ -1,10 +1,7 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAC/ninjala-jane.gif" width="100%" />
-</p>
 
 <h1 align="center">👋 Hello, I'm Harish Saud</h1>
-<h3 align="center">Cybersecurity Enthusiast | Security Researcher | Penetration Tester</h3>
+<h3 align="center"> Security Researcher | Web Penetration Tester</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harish5nu/" target="_blank">
@@ -31,44 +28,7 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
 - 🚩 Active in: CTF challenges and lab-based security exercises  
 - 🌍 Ranked in the Top 1% globally on TryHackMe  
 - 🔎 Interested in: Web security, recon, and vulnerability assessment  
-- 📚 Constantly learning: Security tools, techniques, and attack methodologies  
-
----
-
-## ⚡ Core Skills
-
-### Security & Research
-- Penetration Testing
-- Vulnerability Assessment
-- Web Application Security
-- Network Security
-- Ethical Hacking
-- Digital Forensics
-- Reconnaissance & Enumeration
-- Security Research
-
-### Programming & Automation
-- Python
-- Bash
-- Java
-- C / C++
-- HTML
-
-### Tools & Platforms
-- Kali Linux
-- Burp Suite
-- Nmap
-- ffuf
-- Wireshark
-- Metasploit
-- John the Ripper
-- Hashcat
-- TheHarvester
-- Amass
-- enum4linux
-- Netcat
-- Burp Suite
-- OWASP Top 10
+- 📚 Constantly learning: Security tools, techniques, and attack methodologies 
 
 ---
 
@@ -199,20 +159,9 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
 
 ---
 
-## 📞 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/harish5nu/)
-- [Email](mailto:saudharish770@gmail.com)
-- [X / Twitter](https://x.com/HarishS36)
-
----
-
 ## 💡 Core Belief
 
 I believe every vulnerability is an opportunity to learn, improve security, and build a safer digital world. Security is not just about finding flaws — it’s about understanding systems deeply and strengthening them responsibly.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Security+Researcher;Penetration+Tester;Bug+Hunter;Ethical+Hacker" alt="Typing SVG" />
-</p>
