@@ -46,6 +46,9 @@ I enjoy exploring vulnerabilities, understanding system weaknesses, and learning
 
 ### Additional Technologies
 <p align="left">
+  <a href="https://www.kali.org/tools/sqlmap/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="45" height="45" />
+  </a>
   <a href="https://www.kali.org/tools/swaks/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/tools/swaks/images/swaks-logo.svg" alt="swaks" width="45" height="45" />
   </a>
